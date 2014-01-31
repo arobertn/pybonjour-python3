@@ -37,7 +37,7 @@ desc = pybonjour.__doc__.strip().split('\n\n')
 
 
 setup(
-    name = 'pybonjour',
+    name = 'pybonjour-python3',
     version = pybonjour.__version__,
     author = 'Christopher Stawarz',
     author_email = 'cstawarz@csail.mit.edu',

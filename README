@@ -1,3 +1,15 @@
+This is pybonjour-python3, forked from Depl0y's Python-3 version at
+https://github.com/depl0y/pybonjour-python3 , renamed so easy_install
+can get it straight from github using dependency_links.
+
+Require 'pybonjour-python3' and add:
+
+    dependency_links = ['http://github.com/arobertn/pybonjour-python3/tarball/master#egg=pybonjour-python3-1.1.2'],
+
+
+Original README follows.
+
+
 ----------------------------------------------------
 pybonjour:  Pure-Python interface to Apple Bonjour
 
